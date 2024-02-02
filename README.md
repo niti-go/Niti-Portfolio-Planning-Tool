@@ -15,7 +15,7 @@ You can install these dependencies using the following:
 ```shell
 pip install tkinter
 pip install yfinance
-pip install matplotlib.pyplot
+pip install matplotlib
 pip install pandas
 ```
 
@@ -47,4 +47,5 @@ A separate window will display a graph generated from the previous 30 days' clos
 The data for each stock is scaled by the number of shares held, and the graph represents the sum of these scaled points.
 
 ## Demo
-![Screenshot 2024-02-02 at 3.35.39 PM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8r%2Ftdnjlbzn1m5_p4j5bfqqqx1r0000gq%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Uoa5pb%2FScreenshot%202024-02-02%20at%203.35.39%E2%80%AFPM.png)![Screenshot 2024-02-02 at 3.35.59 PM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F8r%2Ftdnjlbzn1m5_p4j5bfqqqx1r0000gq%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_i5shg6%2FScreenshot%202024-02-02%20at%203.35.59%E2%80%AFPM.png)
+![Error Loading Image 1](demo_image_1.png)
+![Error Loading Image 2](demo_image_2.png)
