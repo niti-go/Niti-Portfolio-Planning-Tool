@@ -46,6 +46,6 @@ This will provide real-time information about the total portfolio value, portfol
 A separate window will display a graph generated from the previous 30 days' closing prices of the individual stocks in the portfolio. 
 The data for each stock is scaled by the number of shares held, and the graph represents the sum of these scaled points.
 
-## Demo
+## Example
 ![Error Loading Image 1](demo_image_1.png)
 ![Error Loading Image 2](demo_image_2.png)
