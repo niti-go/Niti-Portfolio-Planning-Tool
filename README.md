@@ -1,6 +1,6 @@
 # Niti's Portfolio Planning Tool
 ## Description
-Welcome to my Portfolio Planning Tool! This program is a GUI-based tool built with Python using the Tkinter, yfinance, and matplotlib libraries for portfolio planning. It allows users to add securities to their portfolio, calculate the portfolio beta and number of shares, and view a graph of the trailing 30-day performance.
+This is a GUI-based tool that allows users to add securities to a portfolio, calculate the portfolio beta and number of shares, and view a graph of the trailing 30-day performance.
 
 ## Prerequisites
 Before running the program, make sure you have the following dependencies installed:
